@@ -1,0 +1,7 @@
+.yhlm-card { border: 1px solid #ddd; border-radius: 10px; padding: 20px; margin-block: 20px; background: #fff; }
+.yhlm-card h3 { margin-top: 0; }
+.yhlm-code { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+.yhlm-code code { padding: 10px; background: #f3f5f7; overflow-wrap: anywhere; user-select: all; flex: 1; min-width: 120px; }
+.yhlm-copy { margin: 0; }
+.yhlm-validity { padding: 12px; background: #fff6dc; border-inline-start: 3px solid #b87b00; margin-block: 15px; }
+.yhlm-guide { overflow-wrap: anywhere; }
